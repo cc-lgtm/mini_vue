@@ -1,0 +1,19 @@
+{
+  "name": "mixi-vue",
+  "version": "1.0.0",
+  "description": "vue迷你版，自己写着玩",
+  "main": "./packages/index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.5.4"
+  },
+  "devDependencies": {
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.7.2"
+  }
+}
